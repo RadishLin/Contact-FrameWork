@@ -64,9 +64,9 @@
 }
 #pragma mark - private
 -(void)addContacts{
-    [self addContactsImage:@"icon-1" givenName:@"海贼王" familyName:@"小" homeEmail:@"865081690@163.com" workEmail:@"865081690@qq.com" phoneNumber:@"18240675897" homeAddressStreet:@"星湖街" homeAddressCity:@"苏州" homeAddressState:@"中国"];
-    [self addContactsImage:@"icon-2" givenName:@"柯南" familyName:@"小" homeEmail:@"865081690@163.com" workEmail:@"865081690@qq.com" phoneNumber:@"18240675897" homeAddressStreet:@"二七区" homeAddressCity:@"郑州" homeAddressState:@"中国"];
-    [self addContactsImage:@"icon-2" givenName:@"柯北" familyName:@"小" homeEmail:@"865081690@163.com" workEmail:@"865081690@qq.com" phoneNumber:@"18240675897" homeAddressStreet:@"二七区" homeAddressCity:@"郑州" homeAddressState:@"中国"];
+    [self addContactsImage:@"icon-1" givenName:@"海贼王" familyName:@"小" homeEmail:@"865081690@163.com" workEmail:@"865081690@qq.com" phoneNumber:@"182********" homeAddressStreet:@"星湖街" homeAddressCity:@"苏州" homeAddressState:@"中国"];
+    [self addContactsImage:@"icon-2" givenName:@"柯南" familyName:@"小" homeEmail:@"865081690@163.com" workEmail:@"865081690@qq.com" phoneNumber:@"182********" homeAddressStreet:@"二七区" homeAddressCity:@"郑州" homeAddressState:@"中国"];
+    [self addContactsImage:@"icon-2" givenName:@"柯北" familyName:@"小" homeEmail:@"865081690@163.com" workEmail:@"865081690@qq.com" phoneNumber:@"182********" homeAddressStreet:@"二七区" homeAddressCity:@"郑州" homeAddressState:@"中国"];
 }
 
 -(void)addContactsImage:(NSString *)imageName givenName:(NSString *)givenName familyName:(NSString *)familyName  homeEmail:(NSString *)homeEmail workEmail:(NSString *)workEmail phoneNumber:(NSString *)phoneNumber homeAddressStreet:(NSString *)homeAddressStreet homeAddressCity:(NSString *)homeAddressCity homeAddressState:(NSString *)homeAddressState{
